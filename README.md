@@ -10,7 +10,9 @@ Please refer to the demo. (请参照项目demo)
 
 /* Properties */
 leftViewVisibleWidth        // Width of left view  (左边view的宽度)
+
 rightViewVisibleWidth       // Width of right view（右边view的宽度）
+
 leftViewCenterX             // The minimum point of x to trigger show center view that you dragging left view back when the left view is shown
                            （当左边view显示的时候，往回拖松开的时候的这个坐标，如果大于设置的值就显示center view,如果小于就还是显示left view)
                            
