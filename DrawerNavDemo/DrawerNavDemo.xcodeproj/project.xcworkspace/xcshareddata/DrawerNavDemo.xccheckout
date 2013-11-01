@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DB41513-213A-4FBF-A059-E21A6C40C50E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DrawerNavDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF9292C8-AA9C-48AF-A520-35496AF4C551</key>
+		<string>https://github.com/yangyangduo/drawer_nav.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DrawerNavDemo/DrawerNavDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF9292C8-AA9C-48AF-A520-35496AF4C551</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yangyangduo/drawer_nav.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF9292C8-AA9C-48AF-A520-35496AF4C551</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF9292C8-AA9C-48AF-A520-35496AF4C551</string>
+			<key>IDESourceControlWCCName</key>
+			<string>drawer_nav</string>
+		</dict>
+	</array>
+</dict>
+</plist>
