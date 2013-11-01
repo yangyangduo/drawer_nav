@@ -65,8 +65,10 @@
 
     // Set parameters
     self.leftViewVisibleWidth = 120;
+    self.rightViewVisibleWidth = 220;
+    self.leftViewCenterX = 70;
+    self.rightViewCenterX = 150;
     self.showDrawerMaxTrasitionX = 40;
-    self.rightViewCenterX = 120;
 
     // Initializations
     [self initialDrawerViewController];
